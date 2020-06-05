@@ -1,0 +1,10 @@
+## Import runtime dependencies
+-r requirements.txt
+
+## For tests, document generations
+pytest
+pytest-html
+asyncmock # Python 3.7 or before. AsyncMock is included in Python 3.8+
+coverage
+sphinx
+sphinx_rtd_theme

@@ -1,0 +1,15 @@
+setuptools
+flask
+pandas
+numpy
+scipy
+wheel
+requests
+werkzeug
+gunicorn
+tensorflow
+keras
+mtcnn
+matplotlib
+Pillow
+opencv-python
